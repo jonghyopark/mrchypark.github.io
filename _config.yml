@@ -24,6 +24,8 @@ navigation:
 
 paginate:            5
 disqus:              "mrchypark"
+addThis:             "ra-58e1422c6a3c89f2"
+ga:                  "UA-47822682-14"
 
 # Build settings
 markdown:            kramdown
