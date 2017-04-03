@@ -17,10 +17,8 @@ author:
 navigation:
 - title: About
   url: /about
-- title: Writing
-  url: /writing
-- title: Contact
-  url: /contact
+- title: Index
+  url: /index
 
 paginate:            5
 disqus:              "mrchypark"

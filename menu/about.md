@@ -2,4 +2,5 @@
 layout: page
 title: About
 ---
-Lagrange is a minimalist Jekyll. It is intended to have a clean, content focused interface for blog writing.
+
+박찬엽의 블로그 입니다. 제가 사용하는 관련 계정들은 모두 위 오른쪽과 맨 아래 있습니다. 피드백은 언제나 환영입니다. 감사합니다.
