@@ -19,6 +19,8 @@ navigation:
   url: /about
 - title: Index
   url: /index
+- title: 패캠 수업자료
+  url: /data_camp_dabrp
 
 paginate:            5
 disqus:              "mrchypark"
