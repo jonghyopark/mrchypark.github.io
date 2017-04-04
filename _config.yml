@@ -17,10 +17,11 @@ author:
 navigation:
 - title: About
   url: /about
-- title: Index
-  url: /index
 - title: Materials
   url: /materials
+- title: Index
+  url: /index
+
 
 paginate:            5
 disqus:              "mrchypark"
