@@ -19,8 +19,8 @@ navigation:
   url: /about
 - title: Index
   url: /index
-- title: materials
-  url: /data_camp_dabrp
+- title: Materials
+  url: /materials
 
 paginate:            5
 disqus:              "mrchypark"
