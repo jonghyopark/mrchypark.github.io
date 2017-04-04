@@ -15,12 +15,12 @@ author:
   facebook:          "mrchypark"
   linkedin:          "chanyub.park"
 navigation:
-- title: About
-  url: /about
 - title: Materials
   url: /materials
 - title: Index
   url: /index
+- title: About
+  url: /about
 
 
 paginate:            5
